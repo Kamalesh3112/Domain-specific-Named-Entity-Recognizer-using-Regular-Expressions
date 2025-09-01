@@ -1,0 +1,6 @@
+text,gold_entities,pred_entities
+R.H. Saunders ( St. Lawrence River ) ( 968 MW ),[],"[{'text': 'Lawrence River', 'label': 'PER'}]"
+; ' '' Anders Lindström '' ',[],[]
+Karl Ove Knausgård ( born 1968 ),[],"[{'text': 'Karl Ove', 'label': 'PER'}]"
+"Atlantic City , New Jersey",[],"[{'text': 'Atlantic City', 'label': 'PER'}, {'text': 'New Jersey', 'label': 'PER'}]"
+"Her daughter from the second marriage was Marie d'Agoult ( 1805–1876 ) , who in turn gave birth to several children , among them—from her liaison to Franz Liszt –- Cosima Wagner ( 1837–1930 ) .",[],"[{'text': 'Franz Liszt', 'label': 'PER'}, {'text': 'Cosima Wagner', 'label': 'PER'}]"
